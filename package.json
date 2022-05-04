@@ -5,17 +5,17 @@
   "packageManager": "pnpm@7.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/antfu/pkg-name#readme",
+  "homepage": "https://github.com/zhiyuanzmj/pkg-name#readme",
   "bugs": {
-    "url": "https://github.com/antfu/pkg-name/issues"
+    "url": "https://github.com/zhiyuanzmj/pkg-name/issues"
   },
   "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "zhiyuanzmj <260480378@qq.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/antfu/pkg-name.git"
   },
-  "funding": "https://github.com/sponsors/antfu",
+  "funding": "https://github.com/sponsors/zhiyuanzmj",
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
