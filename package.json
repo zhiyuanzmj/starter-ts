@@ -13,7 +13,7 @@
   "author": "zhiyuanzmj <260480378@qq.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-name.git"
+    "url": "git+https://github.com/zhiyuanzmj/pkg-name.git"
   },
   "funding": "https://github.com/sponsors/zhiyuanzmj",
   "main": "./dist/index.mjs",
